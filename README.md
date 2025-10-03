@@ -1,5 +1,5 @@
 # MinIO Notes
-
+![Logo of MinIO](./assets/minio-logo.png)
 Tài liệu ghi chú quá trình mình cài đặt và chạy MinIO cho mục đích học tập / test.
 
 ## 📌 Nội dung
